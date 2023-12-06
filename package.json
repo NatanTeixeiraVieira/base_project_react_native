@@ -20,7 +20,8 @@
     "react-native-gesture-handler": "~2.12.0",
     "react-native-reanimated": "~3.3.0",
     "styled-components": "^6.1.1",
-    "zod": "^3.22.4"
+    "zod": "^3.22.4",
+    "expo-location": "~16.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
